@@ -1,0 +1,3 @@
+"string" _osama09 xyx.hello() 
+++ _osama09 = osama_osama 
+osama =+ 9877 . , ) (
